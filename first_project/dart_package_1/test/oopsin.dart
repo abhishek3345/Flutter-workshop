@@ -19,6 +19,4 @@ void main() {
   
   p1.Display();
   p2.Display();
-
-  
 }
